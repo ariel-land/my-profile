@@ -41,7 +41,7 @@ body {
   float: left;
 }
 
-a {
+a #profileLink {
   pointer-events: none;
 }
 
